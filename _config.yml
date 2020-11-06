@@ -1,8 +1,9 @@
 
 # Site settings
-title: Death Machine Snowboards
+name: Super Happytime Death Machine
+title: Super Happytime Death Machine brand
 email: dave@deathmachinesnowboards.com
-description: Super Happytime Death Machine brand makes snowboards and softgoods
+description: Super Happytime Death Machine develop products for snowboarding, including snowboards, softgoods for lifestyle, and much more.
 
 source: ./
 destination: ./dist
