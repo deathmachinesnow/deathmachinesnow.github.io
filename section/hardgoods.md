@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Recipes
-permalink: /recipes/
-type: recipes
+title: hardgoods
+permalink: /hardgoods/
+type: hardgoods
 ---
 
 {% include /components/blog.html %}

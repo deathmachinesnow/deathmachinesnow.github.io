@@ -11,7 +11,7 @@ destination: ./dist
 baseurl: "" 
 url: "https://deathmachinesnowboards.com" # the base hostname & protocol for your site
 
-twitter_username: hdmsnowboards
+twitter_username: shdmsnowboards
 github_username:  deathmachinesnow
 
 # Build settings

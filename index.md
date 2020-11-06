@@ -1,6 +1,7 @@
 ---
-layout: homepage
-title: ERMAGAWD
+layout: shdm
+title: SUPER HAPPYTIME DEATH MACHINE
+meta: 
 ---
 
-{% include components/home_page.html %}
+{% include components/shdm_demo.html %}

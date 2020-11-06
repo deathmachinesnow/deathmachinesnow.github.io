@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Dad Life
-permalink: /dad-life/
-type: dad
+title: softgoods
+permalink: /softgoods
+type: softgoods
 ---
 
 {% include /components/blog.html %}
